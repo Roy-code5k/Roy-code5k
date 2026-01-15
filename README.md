@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is Hrituraj Roy</h1>
 <p align="center">
-  Hustler • Full-Stack & Backend Developer • Competitive Programmer
+  Hustler • Full-Stack Developer • Competitive Programmer
 </p>
 
 <p align="center">
