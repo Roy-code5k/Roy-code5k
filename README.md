@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hrituraj Roy</h1>
+<h1 align="center">Hi 👋, This is Hrituraj Roy</h1>
 <p align="center">
   Hustler • Full-Stack & Backend Developer • Competitive Programmer
 </p>
