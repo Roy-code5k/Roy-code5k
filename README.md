@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- A ** developer (vibecoder)** who enjoys turning ideas into working systems  
+- A ** developer ** who enjoys turning ideas into working systems  
 - Focused on **Full-Stack & Backend development** with strong problem-solving skills  
 - Actively practicing **DSA & Competitive Programming**  
 - Believe in **consistent effort, fast learning, and real execution**  
